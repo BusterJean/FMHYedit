@@ -33,6 +33,7 @@
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
 * [JackChat](https://www.jackchat.ai/) - GPT-3 Based Chatbot
 * [iAsk](https://iask.ai/) - GPT-3 Q&A AI
+* [Nexus AI](https://discord.com/invite/nexusai) - Free GPT 4, MidJourney and Many Models
 
 ***
 
